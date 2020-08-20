@@ -16,4 +16,6 @@ Easy tools for all designs
 
 **functions** - package with often used functions.
 
+**sort** - module for growing sort pipeline input values with clock domain crossing.
+
 **template.vhd** - universal template file for new .vhd modules
