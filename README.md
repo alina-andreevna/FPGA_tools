@@ -18,6 +18,6 @@ Easy tools for all designs
 
 **sort** - module for growing sort pipeline input values with clock domain crossing.
 
-**window analysis** - module for calculate mean value, max value and index of max value. 
+**window analysis** - module for calculate mean value, max value and index of max value. See readme file inside folder before use 
 
 **template.vhd** - universal template file for new .vhd modules
