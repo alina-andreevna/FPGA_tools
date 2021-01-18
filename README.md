@@ -22,6 +22,6 @@ Easy tools for all designs
 
 **tcl** - set of scripts for automation design and verificate FPGA modules
 
-    **make_project** - script for create, synthesis and implementation Vivado project from given sources
+**make_project** - script for create, synthesis and implementation Vivado project from given sources
 
 **template.vhd** - universal template file for new .vhd modules
