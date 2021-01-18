@@ -20,4 +20,8 @@ Easy tools for all designs
 
 **window analysis** - module for calculate mean value, max value and index of max value. See readme file inside folder before use 
 
+**tcl** - set of scripts for automation design and verificate FPGA modules
+
+    **make_project** - script for create, synthesis and implementation Vivado project from given sources
+
 **template.vhd** - universal template file for new .vhd modules
